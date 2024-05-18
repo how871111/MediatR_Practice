@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\selfFile\selfFile\Learn\API_Test\API_Test\bin\Release\net5.0\publish\</_PublishTargetUrl>
+    <History>True|2023-03-13T01:22:13.0632821Z;True|2023-02-03T14:26:29.2469020+08:00;True|2023-02-03T14:09:53.2822484+08:00;True|2023-02-03T13:28:25.9873763+08:00;</History>
+  </PropertyGroup>
+</Project>
